@@ -1,0 +1,14 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "blaster06/device_lenovo_aio_otfp",
+    "target_path": "device/lenovo/aio_otfp",
+    "branch":      "aokp"
+  },
+  {
+    "remote":      "github",
+    "repository":  "blaster06/vendor_lenovo_aio_otfp",
+    "target_path": "vendor/lenovo/aio_otfp",
+    "branch":      "test"
+  }
+]
