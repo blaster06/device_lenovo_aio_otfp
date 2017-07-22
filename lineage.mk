@@ -43,3 +43,6 @@ PRODUCT_BRAND := Lenovo
 PRODUCT_MODEL := Lenovo K3 Note
 PRODUCT_MANUFACTURER := Lenovo
 PRODUCT_RESTRICT_VENDOR_FILES := false
+
+# Root options
+ROOT_METHOD=magisk
